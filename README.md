@@ -1,3 +1,4 @@
+![Banner Jhonny Araújo](https://github.com/JhonnyAraujo/jhonnyaraujo/blob/main/banner.png)
 # 👨‍💻 Jhonny Araújo
 
 > *"Tecnologia é mais do que código — é ponte, cura, sonho e transformação."*
