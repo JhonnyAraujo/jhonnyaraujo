@@ -31,6 +31,7 @@ Meu propósito é contribuir com projetos que impactem vidas — seja em pesquis
 | HTML5      | UI Design | Git & GitHub |
 | CSS3       | UX Design | jQuery |
 | JavaScript |          |            |
+| SQL |          |            |
 
 ---
 
