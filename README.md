@@ -13,7 +13,7 @@ Sou apaixonado por transformar ideias em experiências digitais fluidas e de alt
 
 ---
 
-### 🛠️ Minha Toolbox (Tech Stack Detalhada)
+### 🛠️ Tech Stack
 
 Aqui estão as tecnologias e padrões que utilizo para construir aplicativos escaláveis:
 
@@ -31,7 +31,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir aplicativos esc
 
 ---
 
-### 🏆 Projetos em Destaque (VesteTech)
+### 🏆 Projetos em Destaque
 
 
 - **[Nome do Projeto 1]**: Aplicativo de [descrição, ex: catálogo de moda] com foco em experiência do usuário e consumo de API REST.
