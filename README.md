@@ -9,7 +9,7 @@ Sou apaixonado por transformar ideias em experiências digitais fluidas e de alt
 ### 🚀 O que estou fazendo agora
 - 🎓 Cursando Engenharia de Software
 - 📱 Aprofundando no Desenvolvimento Mobile Dart/Flutter atualmente com foco em **Recursos nativos** e **Aramazenamento offline** no programa VesteTech.
-- 🌐 Aos momentos livres prático um pouco Desenvolvimento Web(HTML, CSS e JavaScript)
+- 🌐 Nos momentos livres, pratico Desenvolvimento Web(HTML, CSS e JavaScript), com o objetivo futuro de explorar frameworks como React, Angular e ecossistemas backend (Node.js e Python).
 - 🛠️ Desenvolvendo projetos desafios do programa VesteTech e projetos pessoais para colocar em prática meus conhecimentos.
 
 ---
@@ -20,7 +20,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir meus projetos e
 
 | Categoria | Tecnologias e Conceitos |
 | :--- | :--- |
-| **Linguagens** | Dart, JavaScript, C#, SQL |
+| **Linguagens** | Dart, JavaScript, C#(básico), SQL |
 | **Framework Mobile** | **Flutter** |
 | **State Management** | **Mobx** |
 | **Consumo de API** | **Dio** |
@@ -33,8 +33,24 @@ Aqui estão as tecnologias e padrões que utilizo para construir meus projetos e
 
 ### 🏆 Projetos em Destaque
 
-
-- **App Rick And Morty**: Aplicativo de Apresentar personagem de um desenho, com foco em animações e consumo de API REST.
+<table>
+  <tr>
+    <td width="30%">
+      <img src="link-do-print-da-homepage.png" alt="Print do App Rick and Morty">
+    </td>
+    <td width="70%">
+      <h4>📱 App Rick And Morty</h4>
+      <p>Aplicativo desenvolvido para o desafio da VesteTech com consumo de API REST sob demanda (Infinite Scroll).</p>
+      <p><b>Destaques Técnicos:</b></p>
+      <ul>
+        <li>Arquitetura <b>MVVM</b> para separação de responsabilidades.</li>
+        <li>Gerenciamento de estado reativo com <b>MobX</b>.</li>
+        <li>UI adaptativa com cores dinâmicas baseadas nas imagens.</li>
+      </ul>
+      <a href="LINK-DO-SEU-REPOSITORIO">Ver repositório completo ➡️</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
