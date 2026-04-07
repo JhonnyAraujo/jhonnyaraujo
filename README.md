@@ -20,7 +20,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir aplicativos esc
 
 | Categoria | Tecnologias e Conceitos |
 | :--- | :--- |
-| **Linguagens** | Dart, JavaScript, C# |
+| **Linguagens** | Dart, JavaScript, C#, SQL |
 | **Framework Mobile** | **Flutter** |
 | **State Management** | **Mobx** |
 | **Consumo de API** | **Dio** |
