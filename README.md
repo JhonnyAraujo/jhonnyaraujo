@@ -1,67 +1,49 @@
-![Banner Jhonny Araújo](https://github.com/JhonnyAraujo/jhonnyaraujo/blob/main/banner.png)
-# 👨‍💻 Jhonny Araújo
+# Olá, eu sou o [Seu Nome] 👋
 
-> *"Tecnologia é mais do que código — é ponte, cura, sonho e transformação."*
+### 📱 Desenvolvedor Mobile Flutter em formação | VesteTech (Growdev & Veste S.A.)
 
----
-
-## 🌟 Sobre mim
-
-Sou Jhonny Araújo, estudante de Engenharia de Software com uma visão clara: usar a tecnologia como ferramenta para **ajudar pessoas**, **transformar realidades** e **impulsionar a evolução humana**.
-
-Vejo a tecnologia como uma força que conecta todas as profissões, tira as pessoas da rotina mecânica e as leva para o campo das ideias, da criatividade e da inovação.  
-Meu propósito é contribuir com projetos que impactem vidas — seja em pesquisas científicas, soluções para saúde, ou ferramentas que ajudem pessoas a realizarem seus sonhos.
+Sou apaixonado por transformar ideias em experiências digitais fluidas e de alto nível. Atualmente, faço parte da trilha Mobile do programa **VesteTech**, onde desenvolvo soluções em Flutter focadas nos desafios reais do varejo de moda e e-commerce de luxo.
 
 ---
 
-## 🎯 Objetivos
-
-- 📚 Tornar-me doutor em Engenharia de Software
-- 🧠 Estudar Engenharia da Computação, Data Science, Cybersegurança e Cloud Computing
-- 💻 Atuar como desenvolvedor full stack em projetos reais
-- 📱 Criar soluções em Front-End, Back-End, Mobile e até Games
-- 🤝 Participar de iniciativas que envolvam tecnologia e impacto social
+### 🚀 O que estou fazendo agora
+- 🎓 Aprofundando em **Arquitetura Limpa** e **Gerenciamento de Estado** no programa VesteTech.
+- 🛠️ Desenvolvendo projetos que integram o mundo físico ao digital (Omnichannel).
+- 🌱 Estudando **Testes Unitários** e **Performance de Renderização** de imagens em Flutter.
 
 ---
 
-## 🛠️ Tecnologias que domino
+### 🛠️ Minha Toolbox (Tech Stack Detalhada)
 
-| Linguagens | Design | Ferramentas |
-|------------|--------|-------------|
-| HTML5      | UI Design | Git & GitHub |
-| CSS3       | UX Design | jQuery |
-| JavaScript |          |            |
-| SQL |          |            |
+Aqui estão as tecnologias e padrões que utilizo para construir aplicativos escaláveis:
 
----
 
-## 🚀 Projetos em destaque
-
-### 🚲 Bikcraft
-- Tecnologias: HTML, CSS, JavaScript
-- [Ver repositório](https://github.com/JhonnyAraujo/bikcraft)
-  
----
-
-## 📍 Localização
-
-Campo Alegre - AL, Brasil 🇧🇷
+| Categoria | Tecnologias e Conceitos |
+| :--- | :--- |
+| **Linguagens** | Dart, JavaScript |
+| **Framework Mobile** | **Flutter** |
+| **State Management** | **Mobx** |
+| **Consumo de API** | **Dio** |
+| **Persistência de Dados** | **Hive** |
+| **Arquitetura & Padrões** | **MVVM** |
+| **Design & UI** | **Figma** |
+| **DevOps & Tools** | Git, GitHub, Postman, |
 
 ---
 
-## 📫 Conecte-se comigo
+### 🏆 Projetos em Destaque (VesteTech)
 
-- [LinkedIn](https://www.linkedin.com/in/jhonny-araújo)
-- ✉️ E-mail: *jhonny.a.santana2002@gmail.com*
-- 💬 Em breve: Portfólio pessoal com projetos e artigos
 
----
-
-## ✨ Curiosidades
-
-- Amo aprender sobre IA e tecnologias emergentes  
-- Acredito que conhecimento só tem valor quando é compartilhado
+- **[Nome do Projeto 1]**: Aplicativo de [descrição, ex: catálogo de moda] com foco em experiência do usuário e consumo de API REST.
+  - *Destaque Técnico: Implementação de Cache com Hive e filtros dinâmicos.*
+- **[Nome do Projeto 2]**: Solução de [descrição, ex: leitura de estoque] para otimização de processos em loja física.
+  - *Destaque Técnico: Uso de Câmera/QR Code e gerenciamento de estado com Provider.*
 
 ---
 
-> *"Se Deus permitir, quero ir além dos limites da máquina — e usar a tecnologia para tocar vidas."*
+### 📫 Vamos nos conectar?
+
+Seja para trocar ideias sobre Flutter ou oportunidades, sinta-se à vontade para me chamar:
+
+[![LinkedIn](https://shields.io)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![E-mail](https://shields.io)](mailto:seuemail@exemplo.com)
