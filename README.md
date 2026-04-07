@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Jhonny Araújo 👋
 
 ### 📱 Desenvolvedor Mobile Flutter em formação | VesteTech (Growdev & Veste S.A.)
 
@@ -27,7 +27,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir aplicativos esc
 | **Persistência de Dados** | **Hive** |
 | **Arquitetura & Padrões** | **MVVM** |
 | **Design & UI** | **Figma** |
-| **DevOps & Tools** | Git, GitHub, Postman, |
+| **DevOps & Tools** | Git, GitHub, Postman |
 
 ---
 
