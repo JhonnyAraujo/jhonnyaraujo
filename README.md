@@ -7,9 +7,10 @@ Sou apaixonado por transformar ideias em experiências digitais fluidas e de alt
 ---
 
 ### 🚀 O que estou fazendo agora
-- 🎓 Aprofundando em **Arquitetura Limpa** e **Gerenciamento de Estado** no programa VesteTech.
-- 🛠️ Desenvolvendo projetos que integram o mundo físico ao digital (Omnichannel).
-- 🌱 Estudando **Testes Unitários** e **Performance de Renderização** de imagens em Flutter.
+- 🎓 Cursando Engenharia de Software
+- 📱 Aprofundando no Desenvolvimento Mobile Dart/Flutter atualmente com foco em **Recursos nativos** e **Aramazenamento offline** no programa VesteTech.
+- 🌐 Aos momentos livres prático um pouco Desenvolvimento Web(HTML, CSS e JavaScript)
+- 🛠️ Desenvolvendo projetos desafios do programa VesteTech e projetos pessoais para colocar em prática meus conhecimentos.
 
 ---
 
@@ -17,10 +18,9 @@ Sou apaixonado por transformar ideias em experiências digitais fluidas e de alt
 
 Aqui estão as tecnologias e padrões que utilizo para construir aplicativos escaláveis:
 
-
 | Categoria | Tecnologias e Conceitos |
 | :--- | :--- |
-| **Linguagens** | Dart, JavaScript |
+| **Linguagens** | Dart, JavaScript, C# |
 | **Framework Mobile** | **Flutter** |
 | **State Management** | **Mobx** |
 | **Consumo de API** | **Dio** |
@@ -34,10 +34,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir aplicativos esc
 ### 🏆 Projetos em Destaque
 
 
-- **[Nome do Projeto 1]**: Aplicativo de [descrição, ex: catálogo de moda] com foco em experiência do usuário e consumo de API REST.
-  - *Destaque Técnico: Implementação de Cache com Hive e filtros dinâmicos.*
-- **[Nome do Projeto 2]**: Solução de [descrição, ex: leitura de estoque] para otimização de processos em loja física.
-  - *Destaque Técnico: Uso de Câmera/QR Code e gerenciamento de estado com Provider.*
+- **App Rick And Morty**: Aplicativo de Apresentar personagem de um desenho, com foco em animações e consumo de API REST.
 
 ---
 
@@ -45,5 +42,5 @@ Aqui estão as tecnologias e padrões que utilizo para construir aplicativos esc
 
 Seja para trocar ideias sobre Flutter ou oportunidades, sinta-se à vontade para me chamar:
 
-[![LinkedIn](https://shields.io)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://shields.io)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/jhonny-araújo)
+[![E-mail](https://shields.io)](mailto:jhonny.a.santana2002@gmail.com)
