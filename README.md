@@ -16,7 +16,7 @@ Sou apaixonado por transformar ideias em experiências digitais fluidas e de alt
 
 ### 🛠️ Tech Stack
 
-Aqui estão as tecnologias e padrões que utilizo para construir aplicativos escaláveis:
+Aqui estão as tecnologias e padrões que utilizo para construir meus projetos escaláveis:
 
 | Categoria | Tecnologias e Conceitos |
 | :--- | :--- |
