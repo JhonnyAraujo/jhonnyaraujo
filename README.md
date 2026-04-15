@@ -24,7 +24,8 @@ Aqui estão as tecnologias e padrões que utilizo para construir meus projetos e
 | **Framework Mobile** | **Flutter** |
 | **State Management** | **Mobx** |
 | **Consumo de API** | **Dio** |
-| **Persistência de Dados** | **Hive** |
+| **Injeção de Dependência** | **Get_it** |
+| **Persistência de Dados** | **Hive_CE** |
 | **Arquitetura & Padrões** | **MVVM** |
 | **Design & UI** | **Figma** |
 | **DevOps & Tools** | Git, GitHub, Postman |
