@@ -26,7 +26,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir meus projetos e
 | **Consumo de API** | **Dio** |
 | **Injeção de Dependência** | **Get_it** |
 | **Persistência de Dados** | **Hive_CE** |
-| **Arquitetura & Padrões** | **MVVM** + **Repository Pattern** + **Clean Architecture** |
+| **Arquitetura & Padrões** | **MVVM** + **Repository Pattern** + **Hexagonal** |
 | **Design & UI** | **Figma** |
 | **DevOps & Tools** | Git, GitHub, Postman |
 
