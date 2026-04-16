@@ -37,7 +37,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir meus projetos e
 <table>
   <tr>
     <td width="30%">
-      <img src="link-do-print-da-homepage.png" alt="Print do App Rick and Morty">
+      <img src="./app_rick_and_morty_tela_inicial.jpeg" alt="Print do App Rick and Morty">
     </td>
     <td width="70%">
       <h4>📱 App Rick And Morty</h4>
@@ -48,7 +48,7 @@ Aqui estão as tecnologias e padrões que utilizo para construir meus projetos e
         <li>Gerenciamento de estado reativo com <b>MobX</b>.</li>
         <li>UI adaptativa com cores dinâmicas baseadas nas imagens.</li>
       </ul>
-      <a href="LINK-DO-SEU-REPOSITORIO">Ver repositório completo ➡️</a>
+      <a href="https://github.com/JhonnyAraujo/app-rick-and-morty">Ver repositório completo ➡️</a>
     </td>
   </tr>
 </table>
