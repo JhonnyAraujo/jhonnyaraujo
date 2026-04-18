@@ -2,7 +2,7 @@
 
 ### 📱 Desenvolvedor Mobile Flutter em formação | VesteTech (Growdev & Veste S.A.)
 
-Sou apaixonado por transformar ideias em experiências digitais fluidas e de alto nível. Atualmente, faço parte da trilha Mobile do programa **VesteTech**, onde desenvolvo soluções em Flutter focadas nos desafios reais do varejo de moda e e-commerce de luxo.
+Sou apaixonado por transformar ideias em experiências digitais fluidas e de alto nível. Atualmente, faço parte da trilha Mobile do programa **VesteTech**, onde desenvolvo soluções em Fluttere atualmente focadas nos desafios.
 
 ---
 
